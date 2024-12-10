@@ -464,6 +464,13 @@ footer {
     width: 60%;
 }
 
+.skills .skills-content .right .Python::before {
+    width: 60%;
+}.skills .skills-content .right .Node.js::before {
+    width: 80%;
+}.skills .skills-content .right .express.js::before {
+    width: 70%;
+}
 /* Teams */
 .teams {
     background-color: #111;
